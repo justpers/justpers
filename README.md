@@ -1,6 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=180&text=I'm%20Doing%20My%20Best&animation=&fontColor=ffffff&fontSize=50" />
-    </div>
+
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 현재 국민대 재학 중 </div> 
