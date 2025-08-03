@@ -1,9 +1,9 @@
-    ## About Me
-    김예향
-    국민대학교 AI빅데이터융합경영학과 / 소프트웨어융합학과 복수전공
-    관심 분야: AI 기반 컴퓨터 비전, XAI
+## About Me
+김예향
+국민대학교 AI빅데이터융합경영학과 / 소프트웨어융합학과 복수전공
+관심 분야: AI 기반 컴퓨터 비전, XAI
 
-    ## 🛠️ Tech Stacks
+## 🛠️ Tech Stacks
 
 ### 📌 Language & Framework
 
