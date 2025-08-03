@@ -22,3 +22,25 @@
 | Figma | Notion | Slack | Git | GitHub |
 |--------|--------|-------|-----|--------|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) |
+
+---
+
+## 📂 Projects
+
+| 프로젝트 | 설명 | 기술스택 | 링크 |
+|----------|------|----------|------|
+| 🔥 실시간 위험행동 감지 | 웹캠 기반 폭행·실신·군중밀집 감지 | YOLOv11, X3D | [Repo]([https://github.com/justpers/...](https://github.com/justpers/capstone-2025-24)) |
+| ✏️ Sketch-to-Image | 스케치를 이미지로 생성 + 유사 이미지 검색 | Stable Diffusion, CLIP | [Repo]([https://github.com/justpers/...](https://github.com/justpers/Sketch2Image-and-ImageRetrieval)) |
+
+---
+
+## 📜 Certifications
+
+- SQLD (한국데이터산업진흥원, 2023)
+
+---
+
+## 🌐 Activities
+
+| 활동 | 설명 | 기간 |
+|------|------|------|
