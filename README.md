@@ -23,17 +23,6 @@
 |--------|--------|-------|-----|--------|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) |
 
-## 📂 Projects
-
-| 프로젝트 | 설명 | 기술스택 | 링크 |
-|----------|------|----------|------|
-| 🔥 실시간 위험행동 감지 | CCTV 기반 화재, 폭행, 실신 등 위험행동 감지 | YOLOv11, X3D | [Repo](https://github.com/justpers/capstone-2025-24) |
-| ✏️ Sketch-to-Image | 스케치를 이미지로 생성 + 유사 이미지 검색 | Stable Diffusion, CLIP | [Repo](https://github.com/justpers/Sketch2Image-and-ImageRetrieval) |
-
-## 📜 Certifications
-
-- SQLD (한국데이터산업진흥원, 2023)
-
 ## 🌐 Activities
 
 | 활동명 | 기간 | 유형 | 관련 활동 | 주최/기관 |
@@ -48,7 +37,17 @@
 | D&A Conference Session | 2024.07 ~ 2024.11 | 학회 (4학년 2학기) | Image2Sketch 활용 갤러리 검색 | 국민대학교 빅데이터 분석 학회 D&A |
 | 학부연구생 | 2024.09 ~ | 연구참여 | - | 국민대학교 |
 
+## 📂 Projects
 
+| 프로젝트 | 설명 | 기술스택 | 링크 |
+|----------|------|----------|------|
+| 🔥 실시간 위험행동 감지 | CCTV 기반 화재, 폭행, 실신 등 위험행동 감지 | YOLOv11, X3D | [Repo](https://github.com/justpers/capstone-2025-24) |
+| ✏️ Sketch-to-Image | 스케치를 이미지로 생성 + 유사 이미지 검색 | Stable Diffusion, CLIP | [Repo](https://github.com/justpers/Sketch2Image-and-ImageRetrieval) |
+
+## 📜 Certifications
+
+- SQLD (한국데이터산업진흥원, 2023)
+  
 ## 📬 Contact
 
 | 플랫폼 | 링크 |
