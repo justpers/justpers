@@ -41,17 +41,16 @@
 
 | 프로젝트 | 설명 | 기술스택 | 링크 |
 |----------|------|----------|------|
-| D&A Visualization Competition | Python 기반 데이터 시각화 경진대회 | Python | |
-| 인사정보 기반 연봉 예측 | 머신러닝 회귀 모델을 활용한 연봉 예측 | Python | |
-| D&A ML Competition | 분류 모델 성능 비교를 통한 ML 경진대회 | Python | |
+| D&A Visualization Competition | Python 기반 데이터 시각화 경진대회 | Python | [Repo] (https://github.com/justpers/Covid-visualization) |
+| D&A ML Competition | 분류 모델 성능 비교를 통한 ML 경진대회 | Python | [Repo] (https://github.com/justpers/CreditCard)|
 | 경찰대학 교통안전 데이터 경진대회 | 교통사고 데이터 분석을 통한 위험 요인 예측 | Python | |
-| 스네이크 게임 제작 | C++로 구현한 콘솔 기반 게임 | C++ | |
-| 공공데이터 활용 공모전 | 고용노동부 데이터 기반 추천 시스템 구현 | Python, NLP, 추천시스템 | |
-| 여행 플래너 사이트 개발 | 여행 일정 계획 + 장소 추천 웹 애플리케이션 | React.js, Firebase, HTML, Figma | |
+| 스네이크 게임 제작 | C++로 구현한 콘솔 기반 게임 | C++ | [Repo] (https://github.com/justpers/snake_game)|
+| 공공데이터 활용 공모전 | 고용노동부 데이터 기반 추천 시스템 구현 | Python, NLP, 추천시스템 | [Repo] (https://github.com/justpers/10_jobs)|
+| 여행 플래너 사이트 개발 | 여행 일정 계획 + 장소 추천 웹 애플리케이션 | React.js, Firebase, HTML, Figma | [Repo] (https://github.com/justpers/Web_travel-plan)|
 | Sketch2Image 갤러리 검색 | 스케치를 이미지로 생성 + 유사 이미지 검색 | OpenCV, Stable Diffusion, CLIP, Dino | [Repo](https://github.com/justpers/Sketch2Image-and-ImageRetrieval) |
 | 안저 Matting | - | - | |
-| CCTV 위험감지 서비스 개발 | CCTV 기반 화재, 폭행, 실신 등 위험행동 감지 | Pytorch, YOLOv11, X3D | |
-| 사진 정리 웹사이트 개발 | 유사도 기반 중복 이미지 제거 및 정리 시스템 | HuggingFace API, HTML5, FastAPI| [Repo](https://github.com/justpers/capstone-2025-24) |
+| CCTV 위험감지 서비스 개발 | CCTV 기반 화재, 폭행, 실신 등 위험행동 감지 | Pytorch, YOLOv11, X3D | [Repo] (https://github.com/justpers/capstone-2025-24) |
+| 사진 정리 웹사이트 개발 | 유사도 기반 중복 이미지 제거 및 정리 시스템 | HuggingFace API, HTML5, FastAPI| [Repo] (https://github.com/justpers/Smart-Photo-Sorter)|
 
 
 ## 📜 Certifications
