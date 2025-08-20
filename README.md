@@ -38,12 +38,12 @@
   - Basic Session (2022.03 ~ 05, 시각화 경진대회 참가)  
   - ML Session (2022.09 ~ 11, ML Competition 참가)  
   - Deep Session (2023.03 ~ 05)  
-  - 운영진 활동 (2024.01 ~ 12)  
+  - D&A 운영진 활동 (2024.01 ~ 12)  
   - Conference Session 발표 (2024.07 ~ 11, Sketch2Image 프로젝트 발표)  
 
 - **연구/튜터링**  
+  - 회귀분석 튜터링 멘토 (2023.03 ~ 05)
   - 학부연구생 참여 (2024.09 ~ )  
-  - 회귀분석 튜터링 멘토 (2023.03 ~ 05)  
 
 - **동아리 활동 (KOK 배드민턴 동아리, 국민대학교)**  
   - 부원 (2021.09 ~ 2024.12)  
@@ -55,11 +55,11 @@
 
 | 프로젝트 | 설명 | 기술스택 | 링크 |
 |----------|------|----------|------|
-| CCTV 위험감지 서비스 개발 | CCTV 기반 화재, 폭행, 실신 등 위험행동 감지 | Pytorch, YOLOv11, X3D | [Repo](https://github.com/justpers/capstone-2025-24) |
-| Sketch2Image 갤러리 검색 | 스케치를 이미지로 생성 + 유사 이미지 검색 | OpenCV, Stable Diffusion, CLIP, DINOv2 | [Repo](https://github.com/justpers/Sketch2Image-and-ImageRetrieval) |
+| Sketch2Image를 통한 갤러리 내 이미지 검색 | 스케치를 이미지로 생성 + 유사 이미지 검색 | OpenCV, Stable Diffusion, CLIP, DINOv2 | [Repo](https://github.com/justpers/Sketch2Image-and-ImageRetrieval) |
+| Retinal Image Matting (중단) | 망막 영상에 Image Matting 기법 적용 연구 (중단) | PyTorch, Photoshop | - |
+| AI 기반 실시간 위험 모니터링 시스템 (NURINOON) | CCTV 기반 화재, 폭행, 실신 등 위험행동 감지 | Pytorch, YOLOv11, X3D | [Repo](https://github.com/justpers/capstone-2025-24) |
 | 사진 정리 웹사이트 개발 | 유사도 기반 중복 이미지 제거 및 정리 시스템 | HuggingFace API, HTML5, FastAPI | [Repo](https://github.com/justpers/Smart-Photo-Sorter) |
 | 공공데이터 활용 공모전 | 고용노동부 데이터 기반 추천 시스템 구현 | Python, NLP, 추천시스템 | [Repo](https://github.com/justpers/10_jobs) |
-| Retinal Image Matting (중단) | 망막 영상에 Image Matting 기법 적용 연구 (중단) | PyTorch, Photoshop | - |
 
 ---
 
