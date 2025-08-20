@@ -58,8 +58,8 @@ AI 기반 **컴퓨터 비전(Computer Vision)** 을 중심으로 연구하고 �
 
 | 프로젝트 | 설명 | 기술스택 | 링크 |
 |----------|------|----------|------|
-| Sketch2Image를 통한 갤러리 내 이미지 검색 | 스케치를 이미지로 생성 + 유사 이미지 검색 | OpenCV, Stable Diffusion, CLIP, DINOv2 | [Repo](https://github.com/justpers/Sketch2Image-and-ImageRetrieval) |
-| Retinal Image Matting | 망막 영상에 Image Matting 기법 적용 연구 (중단) | PyTorch, Photoshop | [Repo](https://github.com/justpers/Retinal-Image-Matting) |
+| Sketch2Image를 통한 갤러리 내 이미지 검색 | 스케치를 이미지로 생성 + 유사 이미지 검색 | OpenCV, Stable Diffusion, BLIP, DINOv2 | [Repo](https://github.com/justpers/Sketch2Image-and-ImageRetrieval) |
+| Retinal Image Matting | 망막 영상에 Image Matting 기법 적용 연구 (중단) | PyTorch, Matting | [Repo](https://github.com/justpers/Retinal-Image-Matting) |
 | AI 기반 실시간 위험 모니터링 시스템 (NURINOON) | CCTV 기반 화재, 폭행, 실신 등 위험행동 감지 | Pytorch, YOLOv11, X3D | [Repo](https://github.com/justpers/capstone-2025-24) |
 | 사진 정리 웹사이트 개발 | 유사도 기반 중복 이미지 제거 및 정리 시스템 | HuggingFace API, HTML5, FastAPI | [Repo](https://github.com/justpers/Smart-Photo-Sorter) |
 | 공공데이터 활용 공모전 | 고용노동부 데이터 기반 추천 시스템 구현 | Python, NLP, 추천시스템 | [Repo](https://github.com/justpers/10_jobs) |
