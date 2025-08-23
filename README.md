@@ -84,5 +84,4 @@ AI 기반 **컴퓨터 비전(Computer Vision)** 을 중심으로 연구하고 �
 | 플랫폼 | 링크 |
 |--------|------|
 | 📓 Notion | [바로가기](https://concrete-lead-4b0.notion.site/59e3731f20204c76b6484e60953cb544?pvs=4) |
-| 📷 Instagram | [@hyang.ye](https://www.instagram.com/hyang.ye/) |
 | 📧 Email | nunajiyo@naver.com |
