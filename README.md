@@ -84,5 +84,5 @@ AI 기반 **컴퓨터 비전(Computer Vision)** 을 중심으로 연구하고 �
 
 | 플랫폼 | 링크 |
 |--------|------|
-| 📓 Notion | [바로가기](https://concrete-lead-4b0.notion.site/59e3731f20204c76b6484e60953cb544?pvs=4) |
+| 📓 CV | [바로가기](https://www.canva.com/design/DAGw3Bdlwr4/MhJDQEz3fOIA9VBzI4IwJQ/view?utm_content=DAGw3Bdlwr4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha6d3e6b3e3) |
 | 📧 Email | nunajiyo@naver.com |
